@@ -6,7 +6,7 @@ Se pretende realizar una plataforma sencilla en la que se pueda solicitar y coti
 
 ## Conceptos utilizados:
 + Variables *Let*
-+ Condicionales *Switch*
++ Condicionales *If...else* y *Switch*
 + Ciclos *While*
 + Funciones y llamado de funciones
 

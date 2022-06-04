@@ -112,11 +112,12 @@ function confirmarDatos() {
       "Barrio: " +
       barrio
   );
-  while ((respuesta == "No")) {
+
+  if (respuesta == "No") {
     alert("Acualice la página y vuelva a intentarlo.");
-    break;
+  } else {
+    alert("Muy bien " + nombre + "!" + " Ahora continúe con su compra.");
   }
-  alert("Muy bien "+nombre+"!"+" Ahora continúe con su compra.")
 }
 
 confirmarDatos();
