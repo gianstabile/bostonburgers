@@ -15,3 +15,6 @@ Se pretende realizar una plataforma sencilla en la que se pueda solicitar y coti
 En esta primera entrega se crean funciones para pedir y corroborar los datos del usuario que compra (nombre, teléfono, dirección y barrio). 
 
 El HTML ha sido construído con Bootstrap, y por ahora solo tiene la sección de *Inicio*.
+
+### AÑADIENDO ARRAYS Y OBJETOS
+Con esta nueva entrega se busca automatizar le proceso de petición de datos y la creación de listas con los usuarios que han pedido productos. Proximamente crearé distintos métodos para elegir las diferentes opciones de productos.

@@ -93,34 +93,7 @@ function pedirBarrio() {
   return barrio;
 }
 
-// //CONFIRMACIÓN DE DATOS
-// let respuesta;
-// function confirmarDatos() {
-//   respuesta = prompt(
-//     nombre +
-//       " confirma, por favor, con Si/No, que los siguientes datos son correctos: " +
-//       "\n" +
-//       "Teléfono: " +
-//       tel +
-//       "\n" +
-//       "Dirección: " +
-//       direccion +
-//       "\n" +
-//       "Barrio: " +
-//       barrio
-//   );
-
-//   if (respuesta == "No") {
-//     alert("Acualice la página y vuelva a intentarlo.");
-//   } else {
-//     alert("Muy bien " + nombre + "!" + " Ahora continúe con su compra.");
-//   }
-// }
-// confirmarDatos();
-// console.log(respuesta);
-
 // DECLARO UNA CLASE PARA CREAR USUARIOS
-
 class Usuario {
   constructor(nombre, tel, direccion, barrio) {
     this.nombre = nombre;
@@ -149,21 +122,7 @@ const burgers = [
   { nombre: "Carne Premium", precio: 550 },
   { nombre: "Veggie", precio: 479 },
 ];
-const panes = [
-  "Pan tradicional",
-  "Pan de remolacha",
-  "Pan de salvado",
-  "Pan saborizado con semillas",
-];
-const aderezos = [
-  "Mayonesa",
-  "Mostaza",
-  "Cheddar",
-  "Ketchup",
-  "Salsa Golf",
-  "BBQ",
-  "Chili",
-];
+const aderezos = ["Mayonesa", "Mostaza", "Cheddar", "Ketchup", "Salsa Golf"];
 const guarniciones = [
   "Papas fritas",
   "Papas Boston",
