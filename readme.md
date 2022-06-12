@@ -16,5 +16,5 @@ En esta primera entrega se crean funciones para pedir y corroborar los datos del
 
 El HTML ha sido construído con Bootstrap, y por ahora solo tiene la sección de *Inicio*.
 
-### AÑADIENDO ARRAYS Y OBJETOS
+### Añadiendo Arrays y Objetos
 Con esta nueva entrega se busca automatizar le proceso de petición de datos y la creación de listas con los usuarios que han pedido productos. Proximamente crearé distintos métodos para elegir las diferentes opciones de productos.
