@@ -18,3 +18,6 @@ El HTML ha sido construído con Bootstrap, y por ahora solo tiene la sección de
 
 ### Añadiendo Arrays y Objetos
 Con esta nueva entrega se busca automatizar le proceso de petición de datos y la creación de listas con los usuarios que han pedido productos. Proximamente crearé distintos métodos para elegir las diferentes opciones de productos.
+
+### Sumando Clases, y métodos MAP y FILTER
+En esta entrega se muestra por console.log algunos detalles filtrados de los arrays, como las guarniciones o las burgers sin carne. Además, se calcular el total del pedido, y se muestra cómo se arma la actual burger (ingredientes, aderezos, panes).
